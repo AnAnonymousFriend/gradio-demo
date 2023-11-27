@@ -1,7 +1,7 @@
 aiofiles==23.2.1
 altair==5.1.2
 annotated-types==0.6.0
-anyio==4.1.0
+anyio==3.7.1
 attrs==23.1.0
 certifi==2023.11.17
 charset-normalizer==3.3.2
