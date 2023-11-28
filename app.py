@@ -37,4 +37,4 @@ def predict(text):
 interface = gr.Interface(fn=predict, inputs="text", outputs="text")
 
 # 启动接口
-interface.launch()
+interface.launch(server_name="0.0.0.0",server_port=7860)
